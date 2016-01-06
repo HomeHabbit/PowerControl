@@ -1,0 +1,5 @@
+uint64 ids
+string state
+uint8 dimming
+---
+string state
